@@ -10,3 +10,6 @@ build
 
 # local env files
 .env
+
+#IDE
+.idea
